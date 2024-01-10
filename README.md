@@ -2,6 +2,8 @@
 
 This project demonstrates a simple Go application following the Hexagonal Architecture pattern. The application is structured with separate layers for adapters, core logic, and delivery.
 
+![Hexagonal Architecture](https://www.happycoders.eu/wp-content/uploads/2023/01/hexagonal-architecture.v2.png)
+
 ## Project Structure
 
 | Directory                    | Description                                      |
